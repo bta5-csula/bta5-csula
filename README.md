@@ -15,5 +15,5 @@ Python, SQL, Claude and Claude Code, OpenCV, Streamlit, Vercel
 
 ## Contact
 
-LinkedIn: linkedin.com/in/brian-ta-
+LinkedIn: linkedin.com/in/brian-ta-  
 Email: nogsjn@gmail.com
