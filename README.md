@@ -11,7 +11,7 @@ Third-year undergraduate at California State University, Los Angeles, double-maj
 
 ## Tools I use
 
-Python, SQL, Claude and Claude Code, OpenCV, Streamlit, Vercel
+Python, SQL, Claude and Claude Code, OpenCV, Vercel, Streamlit, Github Pages
 
 ## Contact
 
