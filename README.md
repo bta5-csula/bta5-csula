@@ -1,15 +1,16 @@
 # Hi, I'm Brian Ta
 
-Third-year undergraduate at California State University, Los Angeles, double-majoring in Computer Information Systems and Business Administration. I work at the intersection of technical development and business strategy, building AI-powered tools and leading STEM research teams.
+Third-year undergraduate at California State University, Los Angeles, studying Computer Information Systems and Business Administration. I picked both because a technical build only matters once someone adopts it. CAPE and SAIES both ship as dashboards other people actually use.
 
 Open to software engineering and data internships.
 
 ## What I'm working on
 
 - Cryo-UAV Team: Software Team Lead for a NASA ORBIT Challenge team, building autonomous drone navigation using computer vision and SLAM.
-- CAPE: NSF-funded research project predicting carbon risk in LAX air freight logistics. [Code](https://github.com/x0danny/CAPE) | [Dashboard](https://cape-dashboard.streamlit.app)
-- SAIES: Vice President; built an AI-powered diagram-maker tool and a sales intelligence control tower for business systems analysis. [Diagram tool](https://society-for-ai-in-enterprise-systems.vercel.app/) | [Code](https://github.com/bta5-csula/society-for-ai-in-enterprise-systems) | [Control tower](https://github.com/bta5-csula/saies-control-tower) | [Live](https://saies-sales-ai-dashboard.onrender.com)
-- ICSRC: President; built and maintain the club's website. [Site](https://nasa-minds-icsrc.github.io/IC-SRC-Website/) | [Code](https://github.com/Nasa-Minds-ICSRC/IC-SRC-Website)
+- CAPE: NSF-funded research project predicting carbon risk in LAX air freight logistics. [Live](https://cape-dashboard.streamlit.app) | [Code](https://github.com/x0danny/CAPE)
+- SAIES: Vice President; built a sales intelligence dashboard that turns sales and pricing spreadsheets into KPI summaries, forecasts, and plain-English Q&A. [Live](https://saies-sales-ai-dashboard.onrender.com) | [Code](https://github.com/bta5-csula/saies-control-tower)
+- SAIES: also built an AI-powered diagram-maker tool for business systems analysis. [Live](https://society-for-ai-in-enterprise-systems.vercel.app/) | [Code](https://github.com/bta5-csula/society-for-ai-in-enterprise-systems)
+- ICSRC: President; built and maintain the club's website. [Live](https://nasa-minds-icsrc.github.io/IC-SRC-Website/) | [Code](https://github.com/Nasa-Minds-ICSRC/IC-SRC-Website)
 
 ## Skills
 
