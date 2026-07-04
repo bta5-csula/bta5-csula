@@ -1,12 +1,12 @@
 # Hi, I'm Brian Ta
 
-Third-year undergraduate at California State University, Los Angeles, studying Computer Information Systems and Business Administration. I picked both because a technical build only matters once someone adopts it. CAPE and SAIES both ship as dashboards other people actually use.
+Third-year undergraduate at California State University, Los Angeles, studying Computer Information Systems and Business Administration. I picked both because a technical build only matters once someone adopts it. CAPE (Carbon-Aware Predictive Engine) and SAIES (Society for AI in Enterprise Systems) both ship as dashboards other people actually use.
 
 Open to software engineering and data internships.
 
 ## What I'm working on
 
-- Cryo-UAV Team: Software Team Lead for a NASA ORBIT Challenge team, building autonomous drone navigation using computer vision and SLAM.
+- Cryo-UAV Team: Project Manager and Software Team Lead for a NASA ORBIT Challenge team. Built an autonomous flight control system using a Time-of-Flight sensor for obstacle detection, OpenCV for object identification, and pygame for manual drone control. The team won 1st place for its Systems Engineering Paper in the 2025 NASA MINDS competition.
 - CAPE: NSF-funded research project predicting carbon risk in LAX air freight logistics. [Live](https://cape-dashboard.streamlit.app) | [Code](https://github.com/x0danny/CAPE)
 - SAIES: Vice President; built a sales intelligence dashboard that turns sales and pricing spreadsheets into KPI summaries, forecasts, and plain-English Q&A. [Live](https://saies-sales-ai-dashboard.onrender.com) | [Code](https://github.com/bta5-csula/saies-control-tower)
 - SAIES: also built an AI-powered diagram-maker tool for business systems analysis. [Live](https://society-for-ai-in-enterprise-systems.vercel.app/) | [Code](https://github.com/bta5-csula/society-for-ai-in-enterprise-systems)
