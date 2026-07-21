@@ -1,8 +1,8 @@
 # Hi, I'm Brian Ta
 
-Third-year undergraduate at California State University, Los Angeles, studying Computer Information Systems and Business Administration. I am pursuing both majors because I want to apply new technologies toward solving problems that are impacting people around the world.
+As a third-year undergraduate at the California State University, Los Angeles, I'm studying Computer Information Systems and Business Administration. I am pursuing both majors because I want to apply new technologies toward solving problems that are impacting people around the world.
 
-Open to software engineering and AI internships.
+I'm currently open to software engineering and AI internships.
 
 ## What I'm working on
 
